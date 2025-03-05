@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Landing Page"
-permalink: /home
+permalink: /
 ---
 
 Hello!
