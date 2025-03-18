@@ -11,10 +11,10 @@ Last updated on March 11, 2025
 <p>For the purposes of this Privacy Policy:</p>
 <ul>
 <li>
-<p><strong>Application</strong> refers to PerChat, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to PerChat AI, the software program provided by the Company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to PerChat.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to PerChat AI.</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
@@ -52,4 +52,4 @@ In some regions, such as the European Economic Area (EEA), United Kingdom (UK), 
 We may update this privacy notice from time to time. The updated version will be effective as soon as it is accessible.
 
 ## 6. HOW CAN YOU CONTACT US ABOUT THIS NOTICE? #
-If you have questions or comments about this notice, you may email us at llamapersona@gmail.com.
+If you have questions or comments about this notice, you may email us at personaaichat@gmail.com.
