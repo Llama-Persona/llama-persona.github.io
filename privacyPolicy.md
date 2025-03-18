@@ -11,10 +11,10 @@ Last updated on March 11, 2025
 <p>For the purposes of this Privacy Policy:</p>
 <ul>
 <li>
-<p><strong>Application</strong> refers to Llama Persona, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to PerChat, the software program provided by the Company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to Llama Persona.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to PerChat.</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
